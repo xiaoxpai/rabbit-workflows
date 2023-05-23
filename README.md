@@ -5,11 +5,11 @@
 >  作为技术小菜鸟的我，一直对学习 Activiti 工作流框架求之不得，断断续续入门入了三次。这次能够写出这个项目主要归功于 ☕🐇 的[《Activiti 实战》](https://github.com/henryyan/activiti-in-action-codes)。这本书给予了我很大的帮助。最后但仍然重要的，我要感谢[若依框架](http://www.ruoyi.vip/)，她让我实现快速集成工作流 WEB 应用。—— 一只闲鹿
 >
 >  参考资料👇
->
->  1. 若依框架: [http://www.ruoyi.vip](http://www.ruoyi.vip/)
->  2. 咖啡兔：[《Activiti 实战》](https://github.com/henryyan/activiti-in-action-codes)
->  3. Activiti User Guide: <https://www.activiti.org/userguide/index.html#springSpringBoot>
->  4. XBoot: [http://xboot.exrick.cn](http://xboot.exrick.cn/)
+
+- 若依框架: [http://www.ruoyi.vip](http://www.ruoyi.vip/)
+- 咖啡兔：[《Activiti 实战》](https://github.com/henryyan/activiti-in-action-codes)
+- Activiti User Guide: <https://www.activiti.org/userguide/index.html#springSpringBoot>
+- XBoot: [http://xboot.exrick.cn](http://xboot.exrick.cn/)
 
 ## 内置功能
 
@@ -80,7 +80,6 @@ v1.0
 >
 > 人事：rensm / 123456
 
-演示地址：http://proc.iloveu4ever.vip (服务器已过期)
 
 ## 演示图
 
@@ -130,12 +129,6 @@ v1.0
         <td><img src="screenshot/modeler.png"/></td>
     </tr>
 </table>
-
-## 闲鹿工作流交流群
-
-QQ群：794711759。
-
-![闲鹿工作流交流群](ruoyi-admin/src/main/resources/static/img/qr_code.png)
 
 ## 视频教程
 
